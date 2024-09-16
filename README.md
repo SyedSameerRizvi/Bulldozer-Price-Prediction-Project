@@ -70,5 +70,3 @@ After training and evaluating several models, the model with the best performanc
 
 ## Conclusions
 This project provides a comprehensive workflow for predicting bulldozer prices using machine learning techniques.
-
-
